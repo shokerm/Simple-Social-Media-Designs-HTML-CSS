@@ -1,0 +1,95 @@
+html,
+body{
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    background-color:#995bed ;
+}
+.main_container{
+    width: 270px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    flex-direction: column;
+    margin: auto;
+    background-color: white;
+    box-sizing: border-box;
+    box-shadow: 1px 1px  ;
+    
+}
+img{
+    width: auto;
+    height: 50px;
+    border-radius: 10000px;
+    margin: 10px;
+
+}
+
+.container-img{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content:left;
+    padding-top: 100px;
+    align-items: center;
+  
+}
+
+
+.User{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+   
+}
+
+[class*="-name"]{
+  
+    
+    font-weight: bold;
+    color: #555555;
+    margin-bottom: 3px;
+    
+}
+
+.container-title{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    color: #cccdcf;
+    font-weight: bold;
+}
+.container-menu{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
+}
+.photo{
+    margin-bottom: -10px;
+}
+.menu-item{
+    
+    padding: 15px 15px;
+    color: #555555;
+    
+}
+.menu-item:hover{
+    color: #c17ced;
+   
+   
+}
+.menu-item1:hover{
+    background-color: #f7f2ff;
+}
+.menu-item2:hover{
+    background-color: #f7f2ff;
+}
+.menu-item3:hover{
+    background-color: #f7f2ff;
+}
+.menu-item4:hover{
+    background-color: #f7f2ff;
+}
