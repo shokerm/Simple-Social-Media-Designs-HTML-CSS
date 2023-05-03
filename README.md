@@ -1,3 +1,2 @@
 # Simple-Social-Media-Designs-HTML-CSS
-<img src="https://raw.githubusercontent.com/shokerm/Simple-Social-Media-Designs-HTML-CSS/main/social-media.jpg" alt="Social-Media-Designs">
-
+![social-media](https://user-images.githubusercontent.com/96984377/235909070-256ec5a1-739d-42a2-bb36-d11893a7ffb5.jpg)
